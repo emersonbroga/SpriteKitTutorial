@@ -1,13 +1,11 @@
-SpriteKitTutorial
+SpriteKitTutorial 
 =================
 
 A simple SpriteKitTutorial (iOS 7) 
 
 ![Example](https://raw.githubusercontent.com/emersonbroga/SpriteKitTutorial/master/example.gif)
 
-
 This is a simple example of how to use the SpriteKit Framework, using nodes, scenes, physics and collisions.
-
 
 This project was written in Objective-c not Swift (sorry guys!)
 
@@ -22,4 +20,4 @@ This project was made following the steps of [J.B.J. Programming](https://www.yo
 
 ##### Thanks "J.B.J. Programming" for the videos!
 
-
+[Follow me on twiter @emersonbroga](http://twitter.com/emersonbroga) 
